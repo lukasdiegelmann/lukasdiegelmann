@@ -40,11 +40,6 @@ ROS2-based control pipeline for a simulated 6-DoF robotic arm.
 
 ---
 
-### 🎨 `monocircuit`
-Design-focused work exploring the intersection of **static and dynamic graphics**, systems thinking, and visual structure.
-
----
-
 ## 🎯 Long-Term Direction
 
 - Robotics & intelligent physical systems
